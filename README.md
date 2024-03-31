@@ -1,3 +1,1 @@
-### hkuittinen
-
-[https://hkuittinen.github.io/](https://hkuittinen.github.io/)
+### [hkuittinen.com](https://hkuittinen.com)
