@@ -1,0 +1,33 @@
+html {
+  font-size: 16px;
+}
+
+body {
+  margin: 0;
+  background-color: #252526;
+  font-family: monospace;
+}
+
+.editor {
+  margin: 16px;
+  padding: 16px;
+  max-width: 600px;
+  background-color: #1e1e1e;
+  border: 1px solid #343536;
+  color: #d4d4d4;
+  animation-duration: 1s;
+  animation-name: elementIn;
+}
+
+.comment {
+  color: #6a9955;
+}
+
+@keyframes elementIn {
+  from {
+    transform: translateY(-500px);
+  }
+  to {
+    transform: translateY(0);
+  }
+}
